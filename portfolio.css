@@ -1,0 +1,24 @@
+nav,a{
+    color: white;
+    text-decoration: none;
+}
+h2,h4,p{
+    color: white;
+    margin-left: 10PX;
+}
+h1{
+    color: white;
+}
+table{
+    color: white;
+}
+H3{
+    color: orangered;
+    display: block;
+    margin-left: 10PX;
+    border: 3px solid;
+    display: inline;
+}
+header{
+    margin-left: 10PX;
+}
